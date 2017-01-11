@@ -1,0 +1,19 @@
+{
+  "name": "deconsonant-biruk",
+  "version": "1.0.0",
+  "description": "Removes Consonants from a given string",
+  "main": "deconsonant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engbiruk/my-first-nodejs-module.git"
+  },
+  "author": "Biruk Tilahun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/engbiruk/my-first-nodejs-module/issues"
+  },
+  "homepage": "https://github.com/engbiruk/my-first-nodejs-module#readme"
+}
